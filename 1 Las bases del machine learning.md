@@ -12,13 +12,13 @@ Finalmente aprenderemos acerca de la tranferencia de aprendizaje para utilizar m
 
 El proyecto sera crear un clasificador de imagenes.
 
-## Como funcion un modelo de Machine Learning
+## Como funciona un modelo de Machine Learning
 
 A estos modelos le damos muchos datos de entrenamiento, para que aprenda de estos, utilizando modelos matematicos y estadisticos, para despues utilizar este modelos ya entrenado y hacer predicciones y datos que nunca vieron.
 
-## Diferencia con la progrmacion convencional
+## Diferencia con la programacion convencional
 
-Cuando creamos software con programacion regular, nosotros tenemos que poner explicitamente que debe pasar segun que caso; es decir nosotros sabemos las entradas en salidas en logica de programacion.
+Cuando creamos software con programacion regular, nosotros tenemos que poner explicitamente que debe pasar segun que caso; es decir nosotros sabemos las entradas y salidas en la logica de programacion.
 
 ## Necesidades del Machine Learning
 

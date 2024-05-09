@@ -4,11 +4,11 @@
 
 ## 1. Google Colab
 
-Podemos programar ern python usando usando la web de google colab.
+Podemos programar en python usando usando la web de google colab.
 
 ![1696456118783](image/3ConfiguraciondelambientedeEntorno/1696456118783.png)
 
-Este entorno crea un entorno, que solo funcionara mientres se ejecute, si nos vamos a otra computadora, tendremos que volver a ejecutar.
+Este pagina crea un entorno, que solo funcionara mientres se ejecute, si nos vamos a otra computadora, tendremos que volver a ejecutar.
 
 Ademas Google colab tambien acepta subir archivos, pero si actualiza la web tiene q volver a subirce los archivos
 
